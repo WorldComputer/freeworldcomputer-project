@@ -38,19 +38,21 @@ For a trustless, open access and decentralized world computer to exist, you must
  
 **This is an inherent and undeniable trade off, as with any freedom.**
  
-This principle is the foundation for this split and we will build a new free world computer on the foundation of these principals, not because it is easy but because it is hard, because standing up for freedoms is primarly to protect everyone in the long term, even if we have to sacrafice comfortability in the short term. In the face of potential financial ruin I understand doing this is hard but I truly believe is worth doing because these projects we buid today are being built not just for the present but for the future and we can not be so short sighted in our decision making.
+This principle is the foundation for this split and we will build a new free world computer on the foundation of these principals, not because it is easy but because it is hard, because standing up for freedoms is primarly to protect everyone in the long term, even if we have to sacrafice comfortability in the short term. In the face of potential financial ruin I understand why core developers did what they did but understanding it does not mean it was the right course of action. Avoiding taking the easy way out is hard but I truly believe is worth doing because these projects we build today are being built not just for the present but for the future. *We can not afford to be so short sighted in our decision making because the technology around us is constantly changing our environment.*
  
 I propose anyone who agrees with these principals and is upset with the current state of Ethereum assist in forking Ethereum and building a new fee world computer, designed primarily for a more free future, that will not put the interest of a wealthy few ahead of these principals, because these principals are not just marketing jargon, they are essential for a free society in a increasingly technologically advanced world.
- 
 
+We can decide if that means using the existing blockchain or if we should start from scratch. This will have to be decided by the community and not any individual. 
+ 
+Thank you for reading this far.
  
 Seed, freeworldcomp@sigaint.org
 
 ## Projects
 
-To being with we need volunteers to take over bringing over existing clients and maintaining upstream patches with the exception of the censorship tools added in the soft fork and any hard fork changes. 
+To begin, we need volunteers to take over bringing over existing clients and begin maintaining upstream patches with the exception of the censorship tools added in the soft fork and any hard fork changes that are added that affect the intergrity of the system. 
 
-
+We need more than software developers, we need writers, artists and anyone who wants to contribute to rebuilding a foundation without any dependencies on any investors. 
 
 ### Go lanuage client
 
