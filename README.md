@@ -1,5 +1,5 @@
 # freeworldcomputer-project
-** Have questions? Create an issue or request to be added to this project to contribute.**
+**Have questions? Create an issue or request to be added to this project to contribute.**
 
 
 Are you a developer like me? Are you concenred with the active encouragement of third party alterations to smart contracts that were originally advertised to be immutable? I have been developing smart contracts and decentralized software design to assist journalists and political activists. Software like this can not properly function in an environment that a community actively promoting making regular changes with no due process. In this system it is not just journalist tools and tools for political activist that can not function but neither can secure and private social networks. 
