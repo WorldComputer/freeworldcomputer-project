@@ -44,7 +44,7 @@ I propose anyone who agrees with these principals and is upset with the current 
  
 
  
-Seed, seedontheforestfloor@tuta.io
+Seed, freeworldcomp@sigaint.org
 
 ## Projects
 
