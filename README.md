@@ -60,6 +60,8 @@ We need more than software developers, we need writers, artists and anyone who w
 
 Seed, I have started the fork, I will contribute more when time permits. Anyone is welcome to assist.
 
+**Update** Work is set to begin shortly, I will be working under the assumption a new blockchain is going to be formed and distribution will not be through a crowdsale. 
+
 ### Rust client
 
 ### C++ Client
